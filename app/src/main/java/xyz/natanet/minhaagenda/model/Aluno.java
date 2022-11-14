@@ -62,5 +62,3 @@ public class Aluno implements Serializable {
         return id > 0;
     }
 }
-
-

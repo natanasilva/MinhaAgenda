@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Minha Agenda</string>
-    <string name="aluno1">Alex</string>
-    <string name="aluno2">Fran</string>
-    <string name="aluno3">José</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="email">E-mail</string>
+    <string name="salvar_aluno">Salvar o aluno</string>
+    <string name="remover">Remover</string>
 </resources>

@@ -47,7 +47,7 @@ public class AlunoDAO {
 
     public void remove(Aluno aluno) {
         Aluno alunoDevolvido = buscaAlunoPeloId(aluno);
-        if (alunoDevolvido != null) {
+        if(alunoDevolvido != null){
             alunos.remove(alunoDevolvido);
         }
     }
